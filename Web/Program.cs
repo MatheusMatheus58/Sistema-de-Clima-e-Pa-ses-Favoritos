@@ -1,4 +1,4 @@
-﻿using GloboClima.Api.Services; // Se sua classe JwtService estiver em "Services/"
+using GloboClima.Api.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
